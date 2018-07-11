@@ -1,0 +1,8 @@
+1)requirement python 3
+2)pip3 install Flask
+3)pip3 install mysql-connector
+
+4) put sql.sql file into database.
+5) open DbHelper.py File and put your db userName and Password in getConnection function
+5) run Hello.py file
+6) open Postman and do whatever you want to do
